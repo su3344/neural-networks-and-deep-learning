@@ -17,6 +17,14 @@ As the code is written to accompany the book, I don't intend to add
 new features. However, bug reports are welcome, and you should feel
 free to fork and modify the code.
 
+## Running on Raspberry Pi
+
+This code can be run on a Raspberry Pi. Upon first login, Raspberry Pi OS
+will prompt you to change the default password immediately for security
+reasons. Please follow the on-screen instructions, or run `passwd` in the
+terminal to update your credentials. For detailed setup guidance, refer to
+the [official Raspberry Pi documentation](https://www.raspberrypi.com/documentation/).
+
 ## License
 
 MIT License
